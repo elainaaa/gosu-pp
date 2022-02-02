@@ -1,7 +1,7 @@
 package objects
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/timing"
+	"github.com/elainaaa/gosu-pp/beatmap/timing"
 	"strconv"
 )
 
