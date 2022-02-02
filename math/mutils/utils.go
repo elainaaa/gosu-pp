@@ -1,7 +1,7 @@
 package mutils
 
 import (
-	"github.com/Wieku/gosu-pp/math/math32"
+	"github.com/elainaaa/gosu-pp/math/math32"
 	"math"
 )
 
