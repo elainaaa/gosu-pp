@@ -1,10 +1,10 @@
 package objects
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/audio"
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/timing"
-	"github.com/Wieku/gosu-pp/math/vector"
+	"github.com/elainaaa/gosu-pp/beatmap/audio"
+	"github.com/elainaaa/gosu-pp/beatmap/difficulty"
+	"github.com/elainaaa/gosu-pp/beatmap/timing"
+	"github.com/elainaaa/gosu-pp/math/vector"
 )
 
 type IHitObject interface {
