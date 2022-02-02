@@ -1,5 +1,7 @@
 # gosu-pp
 
+modified for personal use
+
 osu! performance calculator written in go. Base copied from https://github.com/Wieku/danser-go
 
 TODO: finish this README
