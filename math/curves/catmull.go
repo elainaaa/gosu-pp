@@ -1,8 +1,8 @@
 package curves
 
 import (
-	"github.com/Wieku/gosu-pp/math/math32"
-	"github.com/Wieku/gosu-pp/math/vector"
+	"github.com/elainaaa/gosu-pp/math/math32"
+	"github.com/elainaaa/gosu-pp/math/vector"
 )
 
 type Catmull struct {
