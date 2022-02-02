@@ -1,8 +1,8 @@
 package curves
 
 import (
-	"github.com/Wieku/gosu-pp/math/mutils"
-	"github.com/Wieku/gosu-pp/math/vector"
+	"github.com/elainaaa/gosu-pp/math/mutils"
+	"github.com/elainaaa/gosu-pp/math/vector"
 	"sort"
 )
 
