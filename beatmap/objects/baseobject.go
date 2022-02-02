@@ -1,8 +1,8 @@
 package objects
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/audio"
-	"github.com/Wieku/gosu-pp/math/vector"
+	"github.com/elainaaa/gosu-pp/beatmap/audio"
+	"github.com/elainaaa/gosu-pp/math/vector"
 	"strconv"
 )
 
