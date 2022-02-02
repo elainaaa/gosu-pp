@@ -1,10 +1,10 @@
 package preprocessing
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/objects"
-	"github.com/Wieku/gosu-pp/math/math32"
-	"github.com/Wieku/gosu-pp/math/vector"
+	"github.com/elainaaa/gosu-pp/beatmap/difficulty"
+	"github.com/elainaaa/gosu-pp/beatmap/objects"
+	"github.com/elainaaa/gosu-pp/math/math32"
+	"github.com/elainaaa/gosu-pp/math/vector"
 	"math"
 )
 
